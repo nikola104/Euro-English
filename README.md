@@ -27,3 +27,6 @@ The resulting output is a Euro English version of the input text.
 
 Usage
 To use the program, simply run the Main class in a Java environment, and input the standard English text when prompted. The program will then output the Euro English version of the text.
+
+
+![main_page](https://github.com/nikola104/Euro-English/assets/94450955/ae7cfaa2-010e-4a1a-8ea4-d430462211cd)

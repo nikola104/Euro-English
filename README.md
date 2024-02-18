@@ -9,6 +9,7 @@ During the development of this project, I learned several key skills, including:
 - String manipulation in Java
 - Regular expressions and pattern matching
 - Debugging and troubleshooting code
+- algoritmitic thinking
 
 How It Works
 The program takes a standard English text as input, and applies a series of rules to convert it to Euro English.
